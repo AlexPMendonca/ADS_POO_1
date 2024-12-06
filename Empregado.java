@@ -12,5 +12,5 @@ class Empregado {
     String nome;
     String sobrenome;
     int matricula;
-    float salário;
+    float salário1;
 }
